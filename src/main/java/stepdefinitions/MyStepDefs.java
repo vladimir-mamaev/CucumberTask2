@@ -33,5 +33,4 @@ public class MyStepDefs {
             driver.quit();
         }
     }
-
 }
